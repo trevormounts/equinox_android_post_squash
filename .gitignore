@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+**/*/test_runs//*
+builds/*/crawls/**/*
+builds/*/test_runs/**/*
+builds/*/logs/**/*
+lkg/*.json
+!lkg/removed_labels.json
+lkg/tests/tests.json
